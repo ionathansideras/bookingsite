@@ -1,5 +1,12 @@
 # bookingSite
 
+**URL**: [https://ionathans-demo-site.com/](https://ionathans-demo-site.com/)
+
+**Proof of Ownership**:  
+Ownership of the site can be verified in two ways:
+- The URL contains my first name ("Ionathan").
+- The footer of the website includes both my first and last name.
+
 **bookingSite** is a full-stack property booking application built with **Next.js 14**, **Material UI**, **MySQL**, **Prisma**, and **i18n**.  
 It features a comprehensive booking system with fully separated **client** and **admin** interfaces, designed for demonstration in a development portfolio.
 
